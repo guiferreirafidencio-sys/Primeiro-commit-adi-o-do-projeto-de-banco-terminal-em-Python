@@ -102,9 +102,11 @@ def limpar_terminal():
     os.system('cls')
     return
 while True:    
+    with open("dados.json", "r") as arquivo:
+        dados = json.load(arquivo)
     traço(25)
     resposta = login_apresentação()
-
+                
 
     if resposta == 1:
         limpar_terminal()
@@ -176,4 +178,5 @@ while True:
           
           
           
+
         
