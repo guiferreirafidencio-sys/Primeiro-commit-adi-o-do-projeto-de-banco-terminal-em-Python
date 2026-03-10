@@ -1,0 +1,46 @@
+[
+    {
+        "nome": "isabella",
+        "senha": "156",
+        "log": 3,
+        "saldo": 1200,
+        "historico": [
+            []
+        ]
+    },
+    {
+        "nome": "gui",
+        "senha": "123",
+        "log": 1,
+        "saldo": 1000,
+        "historico": [
+            []
+        ]
+    },
+    {
+        "nome": "guilherme",
+        "senha": "2802",
+        "log": 12,
+        "saldo": 1800,
+        "historico": [
+            "10/03/2026 13:46 - voce recebeu R$750 do cleo",
+            "10/03/2026 13:47 - voce recebeu R$50 do cleo"
+        ]
+    },
+    {
+        "nome": "gu",
+        "senha": "125",
+        "log": 0,
+        "historico": []
+    },
+    {
+        "nome": "cleo",
+        "senha": "825",
+        "log": 1,
+        "historico": [
+            "10/03/2026 13:46 - voce enviou R$750 para guilherme",
+            "10/03/2026 13:47 - voce enviou R$50 para guilherme"
+        ],
+        "saldo": 200
+    }
+]
